@@ -13,7 +13,17 @@ Audio : Realtek ALC235 (Internal Speaker, 2 audio out front ports)
 
 # Bios Settings
 
-
+![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6292.jpeg)
+![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6293.jpeg)
+![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6294.jpeg)
+![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6295.jpeg)
+![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6296.jpeg)
+![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6297.jpeg)
+![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6298.jpeg)
+![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6299.jpeg)
+![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6300.jpeg)
+![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6302.jpeg)
+![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6303.jpeg)
 
 # Whats working
 
