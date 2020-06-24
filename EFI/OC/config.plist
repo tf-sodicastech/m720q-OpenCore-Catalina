@@ -276,6 +276,8 @@
 				<data>AQAAAA==</data>
 				<key>AAPL00,override-no-connect</key>
 				<data>AP///////wAwrqZlfAgAACMZAQNoMBt4KkP1p1ZTnCYQUFSv7wDRwLMAqcCVAIGAgYpxT4EAAjqAGHE4LUBYLEUA3AwRAAAeAAAA/wAzMTU5MkYzNUcyMTcyAAAA/QAyTB5TFQAKICAgICAgAAAA/ABMRU4gTEkyMjIzc3dBAPw=</data>
+				<key>AAPL02,override-no-connect</key>
+				<data>AP///////wAwrqZlfAgAACMZAQNoMBt4KkP1p1ZTnCYQUFSv7wDRwLMAqcCVAIGAgYpxT4EAAjqAGHE4LUBYLEUA3AwRAAAeAAAA/wAzMTU5MkYzNUcyMTcyAAAA/QAyTB5TFQAKICAgICAgAAAA/ABMRU4gTEkyMjIzc3dBAPw=</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -647,7 +649,7 @@
 			<key>PickerAudioAssist</key>
 			<false/>
 			<key>PickerMode</key>
-			<string>Builtin</string>
+			<string>External</string>
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
@@ -751,7 +753,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-wegnoepu -cdfon -disablegfxfirmware keepsyms=1 alcid=11</string>
+				<string>keepsyms=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -816,17 +818,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02910501GULNV9A8</string>
+			<string>C02902902QXKGQG1F</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>iMac19,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02YDGYXJV3Q</string>
+			<string>C02Y30LBJWDW</string>
 			<key>SystemUUID</key>
-			<string>F86F650C-C371-4000-9152-7D87F8C49684</string>
+			<string>9F1C0108-886B-4166-AFC0-A88F88E9D0F1</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -857,17 +859,17 @@
 			<key>AudioCodec</key>
 			<integer>0</integer>
 			<key>AudioDevice</key>
-			<string>PciRoot(0x0)/Pci(0x1b,0x0)</string>
+			<string>PciRoot(0x0)/Pci(0x1f,0x3)</string>
 			<key>AudioOut</key>
 			<integer>0</integer>
 			<key>AudioSupport</key>
-			<false/>
+			<true/>
 			<key>MinimumVolume</key>
-			<integer>20</integer>
+			<integer>70</integer>
 			<key>PlayChime</key>
-			<false/>
+			<true/>
 			<key>VolumeAmplifier</key>
-			<integer>0</integer>
+			<integer>143</integer>
 		</dict>
 		<key>ConnectDrivers</key>
 		<true/>
