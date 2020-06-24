@@ -1,6 +1,8 @@
 # m720q-OpenCore-Catalina
 Complete configuration for hackintoshing Lenovo M720Q with Opencore as bootloaded and all kext needed to make everything works.
 
+![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/1.png)![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/2.png)
+
 # Computer Configuration
 - CPU : Intel® Core™ i5-8400T Processor (9M Cache, up to 3.30 GHz)
 - GPU : Intel® UHD Graphics 630 (Dual Display Port, HDMI)
