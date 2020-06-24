@@ -1,6 +1,8 @@
 # m720q-OpenCore-Catalina
 Complete configuration for hackintoshing Lenovo M720Q with Opencore as bootloaded and all kext needed to make everything works.
 
+Remember to add your own System Serial Number, System UIDD and Motherboard Serial to get all services working. 
+
 ![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/1.png)![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/2.png)
 
 # Computer Configuration
