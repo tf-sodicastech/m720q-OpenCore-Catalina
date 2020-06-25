@@ -17,7 +17,6 @@ Remember to add your own System Serial Number, System UIDD and Motherboard Seria
 
 # Bios Settings
 
-![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6292.jpeg)
 ![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6293.jpeg)
 ![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6294.jpeg)
 ![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6295.jpeg)
@@ -25,7 +24,6 @@ Remember to add your own System Serial Number, System UIDD and Motherboard Seria
 ![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6297.jpeg)
 ![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6298.jpeg)
 ![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6299.jpeg)
-![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6300.jpeg)
 ![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6302.jpeg)
 ![Bios#1](https://github.com/tobagin/m720q-OpenCore-Catalina/blob/master/IMG_6303.jpeg)
 
